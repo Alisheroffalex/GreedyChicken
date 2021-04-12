@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\bin\Debug\Greedy Chicken.exe.config
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\bin\Debug\Greedy Chicken.exe
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\bin\Debug\Greedy Chicken.pdb
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy Chicken.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy_Chicken.Form1.resources
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy_Chicken.Properties.Resources.resources
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy Chicken.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy Chicken.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy Chicken.exe
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy Chicken.pdb
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy_Chicken.Form2.resources
+C:\Users\User\source\repos\Greedy Chicken\Greedy Chicken\obj\Debug\Greedy_Chicken.Form3.resources
